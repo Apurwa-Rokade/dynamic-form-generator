@@ -5,6 +5,9 @@ git clone https://github.com/Apurwa-Rokade/dynamic-form-generator.git \
 npm install \
 npm start
 
+## Snapshot
+![Output](/public/Output.png)
+
 ## Here is the deployment link 
 https://dynamic-form-generator-beta.vercel.app/
 
