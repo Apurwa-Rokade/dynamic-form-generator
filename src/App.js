@@ -16,7 +16,7 @@ const App = () => {
     dispatch({type: 'create_form', payload: data})
   };
   return (
-    <div className='app_container' style={{ backgroundColor: 'black' }} >
+    <div className='app_container'  >
       <div className="top_container">
       <FormGenerator  formData={formData}  data-testid="form-generator" onSubmit={handleFormSubmit} />
       {formData.length > 0 &&  <FormDisplay  />}
