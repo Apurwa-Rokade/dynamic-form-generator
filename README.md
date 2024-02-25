@@ -8,9 +8,6 @@ npm start
 ## Snapshot
 ![Output](/public/Output.png)
 
-## Dropdown
-![Dropdown](/public/Dropdown.png)
-
 ## Here is the deployment link 
 https://dynamic-form-generator-beta.vercel.app/
 
